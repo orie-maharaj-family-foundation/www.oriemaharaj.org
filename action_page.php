@@ -2,6 +2,7 @@
 <body>
 <?php $name = $_POST['name'];
 $email = $_POST['email'];
+$subject=$_POST['subject'];  
 $comment = $_POST['comment'];
 $formcontent="From: $name \n Comment: $comment";
 $recipient = "omfamilyfoundation@gmail.com";
