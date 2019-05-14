@@ -10,7 +10,7 @@ $subject = "Contact Form";
 $headers = "From: $mailFrom";
 $txt="You have received an e-mail from ".$name.".\n\n".$message;
 mail($mailTo, $subject, $formcontent, $headers,$txt;
-header("Location: index.php?mailsend");
+header("Location: action_page.php?mailsend");
 }     
      
 
