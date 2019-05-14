@@ -1,8 +1,12 @@
 <html>
 <body>
+Welcome <?php $name = $_POST['name'];
+$email = $_POST['email'];
+$comment = $_POST['comment'];
+$formcontent="From: $name \n Comment: $comment";
+$recipient = "omfamilyfoundation@gmail.com";
+$subject = "Contact Form";
+$mailheader = "From: $email \r\n";
+mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
+echo "Thank You!";
 
-Welcome <?php echo $_POST["name"]; ?><br>
-Thank you for contacting us.We look forward to reading your comments. Kindly allow 48 hours before trying to reach us again. <?php echo $_POST["name"]; ?><br>
-Your email address is: <?php echo $_POST["submit"]; ?>
-</body>
-</html>
