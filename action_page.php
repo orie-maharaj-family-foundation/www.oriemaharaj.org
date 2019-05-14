@@ -1,6 +1,6 @@
-<html>
+<!DOCTYPE html>
 <body>
-<?php $name = $_POST['name'];
+<? php echo $name = $_POST['name'];
 $email = $_POST['email'];
 $subject=$_POST['subject'];  
 $message = $_POST['comment'];
