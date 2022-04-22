@@ -19,10 +19,10 @@ openssl req -new -key server.key -out server.csr
     to be sent with your certificate request
     A challenge password []:
     An optional company name []:
-cp server.key server.key.org
-    openssl rsa -in server.key.org -out server.key
 
-The newly created server.key file has no more passphrase in it.
+cp server.key server.key.org
+openssl rsa -in server.key.org -out server.key
+
 
     -rw-r--r-- 1 root root 745 Jun 29 12:19 server.csr
     -rw-r--r-- 1 root root 891 Jun 29 13:22 server.key
