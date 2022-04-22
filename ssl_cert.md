@@ -10,7 +10,7 @@
 
     Country Name (2 letter code) [GB]:US
     State or Province Name (full name) [Colorado]:Colo
-    Locality Name (eg, city) [Newbury]:Trinidad
+    Locality Name (eg, city) []:Trinidad
     Organization Name (eg, company) [My Company Ltd]:Orie Maharaj Family Foundation,Inc.
     Organizational Unit Name (eg, section) []:Non-profit Organization 
     Common Name (eg, your name or your server's hostname) []:public.oriemaharaj.org
