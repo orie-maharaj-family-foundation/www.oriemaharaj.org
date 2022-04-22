@@ -1,4 +1,4 @@
-openssl genrsa -des3 -out server.key 2048
+    openssl genrsa -des3 -out server.key 2048
     
     Generating RSA private key, 2048 bit long modulus
     .........................................................++++++
@@ -6,7 +6,7 @@ openssl genrsa -des3 -out server.key 2048
     e is 65537 (0x10001)
     Enter PEM pass phrase:
     Verifying password - Enter PEM pass phrase:
-openssl req -new -key server.key -out server.csr
+    openssl req -new -key server.key -out server.csr
 
     Country Name (2 letter code) [GB]:CH
     State or Province Name (full name) [Berkshire]:Bern
@@ -20,27 +20,27 @@ openssl req -new -key server.key -out server.csr
     A challenge password []:
     An optional company name []:
 
-cp server.key server.key.org
-openssl rsa -in server.key.org -out server.key
+    cp server.key server.key.org
+    openssl rsa -in server.key.org -out server.key
 
 
     -rw-r--r-- 1 root root 745 Jun 29 12:19 server.csr
     -rw-r--r-- 1 root root 891 Jun 29 13:22 server.key
     -rw-r--r-- 1 root root 963 Jun 29 13:22 server.key.org
 
-openssl x509 -req -days 365 -in server.csr -signkey server.key -out server.crt
+    openssl x509 -req -days 365 -in server.csr -signkey server.key -out server.crt
     Signature ok
     subject=/C=CH/ST=Bern/L=Oberdiessbach/O=Example/OU=Information
     Technology/CN=public.oriemaharaj.org/Email=info@oriemaharaj.org
     Getting Private key
 
-cp server.crt /usr/local/apache/conf/ssl.crt
+    cp server.crt /usr/local/apache/conf/ssl.crt
     cp server.key /usr/local/apache/conf/ssl.key
-SSLEngine on
+    SSLEngine on
     SSLCertificateFile /usr/local/apache/conf/ssl.crt/server.crt
     SSLCertificateKeyFile /usr/local/apache/conf/ssl.key/server.key
     SetEnvIf User-Agent ".*MSIE.*" nokeepalive ssl-unclean-shutdown
     CustomLog logs/ssl_request_log \
        "%t %h %{SSL_PROTOCOL}x %{SSL_CIPHER}x \"%r\" %b"
-/etc/init.d/httpd stop
-/etc/init.d/httpd stop
+    /etc/init.d/httpd stop
+    /etc/init.d/httpd stop
