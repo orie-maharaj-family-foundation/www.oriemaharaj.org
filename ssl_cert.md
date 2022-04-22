@@ -11,14 +11,14 @@
     Country Name (2 letter code) [GB]:US
     State or Province Name (full name) [Colorado]:Colo
     Locality Name (eg, city) []:Trinidad
-    Organization Name (eg, company) [My Company Ltd]:Orie Maharaj Family Foundation,Inc.
-    Organizational Unit Name (eg, section) []:Non-profit Organization 
+    Organization Name (eg, company) [My Company Ltd]:Orie Maharaj Family Foundation
+    Organizational Unit Name (eg, section) []:Nonprofit Organization 
     Common Name (eg, your name or your server's hostname) []:public.oriemaharaj.org
     Email Address []:omfamilyfoundation@gmail.com
     Please enter the following 'extra' attributes
     to be sent with your certificate request
     A challenge password []:apple
-    An optional company name []:Orie Maharaj Family Foundation,Inc.
+    An optional company name []:Orie Maharaj Family Foundation
 
     cp server.key server.key.org
     openssl rsa -in server.key.org -out server.key
@@ -30,7 +30,7 @@
 
     openssl x509 -req -days 365 -in server.csr -signkey server.key -out server.crt
     Signature ok
-    subject=/C=US/ST=Colo/L=Trinidad/O=Orie Maharaj Family Foundation /OU=Non-profit
+    subject=/C=US/ST=Colo/L=Trinidad/O=Orie Maharaj Family Foundation /OU=Nonprofit
     Organization/CN=public.oriemaharaj.org/Email=omfamilyfoundation@gmail.com
     Getting Private key
 
