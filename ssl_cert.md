@@ -8,17 +8,17 @@
     Verifying password - Enter PEM pass phrase:
     openssl req -new -key server.key -out server.csr
 
-    Country Name (2 letter code) [GB]:CH
-    State or Province Name (full name) [Berkshire]:Bern
-    Locality Name (eg, city) [Newbury]:Oberdiessbach
-    Organization Name (eg, company) [My Company Ltd]:Example
-    Organizational Unit Name (eg, section) []:Information Technology
-    Common Name (eg, your name or your server's hostname) []:public.example.com
-    Email Address []:martin dot zahn at example dot ch
+    Country Name (2 letter code) [GB]:US
+    State or Province Name (full name) [Colorado]:Colo
+    Locality Name (eg, city) [Newbury]:Trinidad
+    Organization Name (eg, company) [My Company Ltd]:Orie Maharaj Family Foundation,Inc.
+    Organizational Unit Name (eg, section) []:Non-profit Organization 
+    Common Name (eg, your name or your server's hostname) []:public.oriemaharaj.org
+    Email Address []:omfamilyfoundation@gmail.com
     Please enter the following 'extra' attributes
     to be sent with your certificate request
     A challenge password []:
-    An optional company name []:
+    An optional company name []:Orie Maharaj Family Foundation,Inc.
 
     cp server.key server.key.org
     openssl rsa -in server.key.org -out server.key
@@ -30,8 +30,8 @@
 
     openssl x509 -req -days 365 -in server.csr -signkey server.key -out server.crt
     Signature ok
-    subject=/C=CH/ST=Bern/L=Oberdiessbach/O=Example/OU=Information
-    Technology/CN=public.oriemaharaj.org/Email=info@oriemaharaj.org
+    subject=/C=US/ST=Colo/L=Trinidad/O=Orie Maharaj Family Foundation /OU=Non-profit
+    Technology/CN=public.oriemaharaj.org/Email=omfamilyfoundation@gmail.com
     Getting Private key
 
     cp server.crt /usr/local/apache/conf/ssl.crt
