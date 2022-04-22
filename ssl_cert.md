@@ -17,7 +17,7 @@
     Email Address []:omfamilyfoundation@gmail.com
     Please enter the following 'extra' attributes
     to be sent with your certificate request
-    A challenge password []:
+    A challenge password []:apple
     An optional company name []:Orie Maharaj Family Foundation,Inc.
 
     cp server.key server.key.org
