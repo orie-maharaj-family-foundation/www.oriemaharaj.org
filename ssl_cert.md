@@ -8,10 +8,10 @@
     Verifying password - Enter PEM pass phrase:
     openssl req -new -key server.key -out server.csr
 
-    Country Name (2 letter code) [GB]:US
+    Country Name (2 letter code) [United States]:US
     State or Province Name (full name) [Colorado]:Colo
     Locality Name (eg, city) []:Trinidad
-    Organization Name (eg, company) [My Company Ltd]:Orie Maharaj Family Foundation
+    Organization Name (eg, company) [Orie Maharaj Family Foundation Incorporated]:Orie Maharaj Family Foundation
     Organizational Unit Name (eg, section) []:Nonprofit Organization 
     Common Name (eg, your name or your server's hostname) []:public.oriemaharaj.org
     Email Address []:omfamilyfoundation@gmail.com
