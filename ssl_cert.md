@@ -31,7 +31,7 @@
     openssl x509 -req -days 365 -in server.csr -signkey server.key -out server.crt
     Signature ok
     subject=/C=US/ST=Colo/L=Trinidad/O=Orie Maharaj Family Foundation /OU=Non-profit
-    Technology/CN=public.oriemaharaj.org/Email=omfamilyfoundation@gmail.com
+    Organization/CN=public.oriemaharaj.org/Email=omfamilyfoundation@gmail.com
     Getting Private key
 
     cp server.crt /usr/local/apache/conf/ssl.crt
