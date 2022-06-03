@@ -1,9 +1,63 @@
 <?xml version="1.0" encoding="UTF-16"?>
   <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <url>
-    <loc>http://www.oriemaharaj.org/</loc>
-    <lastmod>${formattedDate}</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <h2>Sitemap: https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/sitemap4.xml</h2> 
+    <h1>Number of URLs in this sitemap:5 </h1>
+    
+    <table style="width:100%">
+  <tr>
+    <th>URL Location</th>
+    <th>Last modification date</th>
+    <th>Change Frequency</th>
+    <th>Priority</th>
+  </tr>
+ 
+    
+  <tr>    
+ <url>
+    <td><loc> https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/about.html </loc></td>
+    <td><lastmod>2022-06-03T13:45:01+00:00</lastmod></td>
+    <td><changefreq>daily</changefreq></td>
+    <td><priority>1.0</priority></td>
   </url>
+      </tr>
+
+   <tr> 
+<url>
+    <td><loc> https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/project.html </loc></td>
+   <td> <lastmod>2022-06-03T13:45:01+00:00</lastmod></td>   
+    <td><td><changefreq>daily</changefreq></td>
+   <td> <priority>1.0</priority></td>
+  </url>
+  </tr>
+      
+       <tr> 
+<url>
+   <td> <loc> https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/contact.html </loc></td>
+    <td><lastmod>2022-06-03T13:45:01+00:00</lastmod></td>
+   <td> <changefreq>daily</changefreq></td>
+    <td><priority>1.0</priority></td>
+  </url>
+  </tr>
+      
+  <tr> 
+<url>
+   <td> <loc> https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/document.html </loc></td>
+    <td><lastmod>2022-06-03T13:45:01+00:00</lastmod></td>
+   <td> <changefreq>daily</changefreq></td>
+    <td><priority>1.0</priority></td>
+  </url>
+  </tr>
+      
+  <tr> 
+<url>
+   <td> <loc> https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/training.html </loc></td>
+    <td><lastmod>2022-06-03T13:45:01+00:00</lastmod></td>
+    <td><changefreq>daily</changefreq></td>
+   <td> <priority>1.0</priority></td>
+  </url>
+    </tr>
+      
+      
+    </table>
+<www.google.com/>/ping?sitemap= https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/sitemap4.xml
 </urlset>
