@@ -2,18 +2,26 @@
   <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 Sitemap: https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/sitemap4.xml 
 Number of URLs in this sitemap:5 
+    
+<url>
+    <loc> https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/index.html </loc>
+    <lastmod>2022-06-03T20:25:42Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>    
+    
  <url>
     <loc> https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/about.html </loc>
     <lastmod>2022-06-03T20:25:42Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.5</priority>
   </url>
 
 <url>
     <loc> https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/project.html </loc>
     <lastmod>2022-06-03T20:25:42Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.5</priority>
   </url>
 
 
@@ -29,7 +37,7 @@ Number of URLs in this sitemap:5
     <loc> https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/document.html </loc>
     <lastmod>2022-06-03T20:25:42Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.5</priority>
   </url>
 
 
@@ -37,7 +45,7 @@ Number of URLs in this sitemap:5
     <loc> https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/training.html </loc>
     <lastmod>2022-06-03T20:25:42Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.5</priority>
   </url>
 
 <www.google.com/>/ping?sitemap= https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/sitemap4.xml
