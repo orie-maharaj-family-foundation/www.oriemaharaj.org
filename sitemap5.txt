@@ -1,4 +1,4 @@
-Sitemap:https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/sitemap5.txt
+Sitemap:https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/sitemap5.xml
 
  https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/index.html 
  https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/about.html 
