@@ -40,5 +40,5 @@ Number of URLs in this sitemap:5
     <priority>1.0</priority>
   </url>
 
-<https://www.google.com/>/ping?sitemap=https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/sitemap4.xml
+<https://www.google.com/>/ping?sitemap= http://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/sitemap4.xml
 </urlset>
