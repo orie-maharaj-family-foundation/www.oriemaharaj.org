@@ -6,4 +6,36 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
+
+<url>
+    <loc> https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/project.html </loc>
+    <lastmod>2022-06-03T13:45:01Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+
+<url>
+    <loc> https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/contact.html </loc>
+    <lastmod>2022-06-03T13:45:01Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+
+<url>
+    <loc> https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/document.html </loc>
+    <lastmod>2022-06-03T13:45:01Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+
+<url>
+    <loc> https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/training.html </loc>
+    <lastmod>2022-06-03T13:45:01Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
 </urlset>
