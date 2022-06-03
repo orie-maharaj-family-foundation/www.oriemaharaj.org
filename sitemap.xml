@@ -1,67 +1,22 @@
-<?xml version="1.0" encoding="UTF-16"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/</loc>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/index.html"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/about.html"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/project.html"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/contact.html"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/document.html"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/thankyou.html"/>
-  </url>
-  <url>
-    <loc>http://www.oriemaharaj.org/</loc>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="http://www.oriemaharaj.org/"/> 
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/contact.html"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/project.html"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/about.html"/>
-     <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/document.html"/>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en"
-               href="https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/thankyou.html"/>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/</loc>
+  <lastmod>2022-06-03T20:59:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/index.html</loc>
+  <lastmod>2022-06-03T20:59:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
 
 </urlset>
