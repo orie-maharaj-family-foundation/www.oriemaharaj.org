@@ -11,7 +11,7 @@ Number of URLs in this sitemap:5
 
 <url>
     <loc> https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/project.html </loc>
-    <lastmod>2022-06-03T13:45:01Z</lastmod>
+    <lastmod>2022-06-03T13:45:01+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
