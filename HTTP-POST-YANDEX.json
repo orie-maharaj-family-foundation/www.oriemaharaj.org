@@ -1,0 +1,13 @@
+POST /indexnow HTTP/1.1
+Content-Type: application/json; charset=utf-8
+Host: <www.yandex.com>
+{
+  "host": "https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/",
+  "key": "a2f6375b4ae643babd38c3f162698cb3",
+  "keyLocation": "https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/myIndexNowKey63638.txt",
+  "urlList": [
+      "https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/about.html",
+      "https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/contact.html",
+      "https://orie-maharaj-family-foundation.github.io/www.oriemaharaj.org/project.html"
+      ]
+}
